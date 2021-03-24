@@ -34,3 +34,9 @@ Q12. How to set NSG rules through Terraform?
 Q13. What is Azure Web Application Firewall and how does it used with Applicaiton Gateway, Front Door and CDN?
 
 Q14. What is a WAF policy and to whom it can be associated?
+
+Q15. What is a Mutex Lock and how does it work?
+
+Q16. How Api gateway vs Front Door
+
+Q17. How do you decide to go with SQL Server vs CosmosDB
