@@ -40,3 +40,24 @@ Q15. What is a Mutex Lock and how does it work?
 Q16. How Api gateway vs Front Door
 
 Q17. How do you decide to go with SQL Server vs CosmosDB
+
+Q18. What is CAP theorem?
+
+Ans. CAP theorem is also called Brewer’s theorem, named after the computer scientist, Eric Brewer.
+We need to understand the distibuted system as it is base requirement of CAP.
+
+**
+CAP theorem stands for:
+
+Consistency
+Availability
+Partition tolerance
+**
+
+Consistency means all the users can see the same data at same time.
+
+Availability means the system continues to operate even in the presence of node failure.
+
+Partition tolerance means the system continues to operate in spite of network failures.
+
+<hr/>
