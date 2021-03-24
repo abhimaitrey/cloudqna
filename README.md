@@ -61,3 +61,17 @@ Availability means the system continues to operate even in the presence of node 
 Partition tolerance means the system continues to operate in spite of network failures.
 
 <hr/>
+
+Q19. What are the power states of an Azure Virtual Machine?
+Ans. 
+There are total 7 power states
+1. Starting: Indicates that the VM is being started.
+2. Running: Indicates that the VM is running.
+3. Stopping: Indicates that the VM is being stopped.
+4. Stopped: Indicates that the VM is stopped. Note that VMs in the stopped state still incur compute charges.
+5. Deallocating: Indicates that the VM is being deallocated.
+6. Deallocated: Indicates that the VM is completely removed from the hypervisor but still available in the control plane. VMs in the deallocated state do not incur compute charges.
+7. Unknown (-): Indicates that the power state of the VM is unknown. 
+
+<hr/>
+
