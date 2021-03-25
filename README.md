@@ -29,6 +29,21 @@ Q9. What is Shared Access Signature and how to generate it?
 
 Q10. Difference between NIC and NSG?
 
+Q11. Name any 5 functionalities which could be offloaded to a gateway in Azure!
+
+Ans.
+1. SSL termination
+2. Client rate limit (throttling) - limit the number of hits by a client in a given time.
+3. Web application firewall (WAF)
+4. Authentication
+5. IP allow/block list
+
+few more:
+
+6. Logging and monitoring
+7. Servicing static content
+8. Gzip compression
+
 Q12. How to set NSG rules through Terraform?
 
 Q13. What is Azure Web Application Firewall and how does it used with Applicaiton Gateway, Front Door and CDN?
@@ -63,6 +78,7 @@ Partition tolerance means the system continues to operate in spite of network fa
 <hr/>
 
 Q19. What are the power states of an Azure Virtual Machine?
+
 Ans. 
 There are total 7 power states
 1. Starting: Indicates that the VM is being started.
@@ -76,12 +92,14 @@ There are total 7 power states
 <hr/>
 
 Q20. What is profiling in Azure?
+
 Ans. 
 Profiling is only a procedure for measuring the performance analysis of an application. It is normally done to guarantee that the application is sufficiently steady and can maintain overwhelming traffic. Visual Studio gives us different tools to do it by gathering the performance information from the application that likewise helps in troubleshooting issues. Once the profiling wizard is run, it sets up the execution session and collects the data of the sample. The profiling reports help in: Deciding the longest running strategies inside the application Measuring the execution time of every strategy in the call stack Assessing memory allocation.
 
 <hr/>
 
 Q21. Which load balancer should we use in what scenario?
+
 Ans.
 <ul><li>If you are looking to do DNS based global routing and do not have requirements for Transport Layer Security (TLS) protocol termination ("SSL offload"), per-HTTP/HTTPS request or application-layer processing, review Traffic Manager.</li></ul>
 <li>If you want to load balance between your servers in a region at the application layer, review Application Gateway.</li>
