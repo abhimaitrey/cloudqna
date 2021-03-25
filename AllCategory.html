@@ -78,3 +78,11 @@ There are total 7 power states
 Q20. What is profiling in Azure?
 Ans. 
 Profiling is only a procedure for measuring the performance analysis of an application. It is normally done to guarantee that the application is sufficiently steady and can maintain overwhelming traffic. Visual Studio gives us different tools to do it by gathering the performance information from the application that likewise helps in troubleshooting issues. Once the profiling wizard is run, it sets up the execution session and collects the data of the sample. The profiling reports help in: Deciding the longest running strategies inside the application Measuring the execution time of every strategy in the call stack Assessing memory allocation.
+
+Q21. Which load balancer should we use in what scenario?
+Ans.
+<ul><li>If you are looking to do DNS based global routing and do not have requirements for Transport Layer Security (TLS) protocol termination ("SSL offload"), per-HTTP/HTTPS request or application-layer processing, review Traffic Manager.</li></ul>
+<li>If you want to load balance between your servers in a region at the application layer, review Application Gateway.</li>
+<li>If you need to optimize global routing of your web traffic and optimize top-tier end-user performance and reliability through quick global failover, see Front Door.</li>
+Source: https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview 
+</hr>
