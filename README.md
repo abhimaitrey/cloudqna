@@ -13,21 +13,39 @@ Private endpoint enables connectivity between the consumers from the same VNet, 
 
 Q2. What is a proximity group and in what scenario it is used?
 
+<hr/>
+
 Q3. Difference between application gateway and load balancer!
+
+<hr/>
 
 Q4. How to define gates in Azure devops release pipeline?
 
+<hr/>
+
 Q5. What kinds of poilicies are there in Azure APIM?
+
+<hr/>
 
 Q6. When do Azure APIM policies execute?
 
+<hr/>
+
 Q7. What sort of database migration challenges have you faced ever?
+
+<hr/>
 
 Q8. What services could be known as Azure native?
 
+<hr/>
+
 Q9. What is Shared Access Signature and how to generate it?
 
+<hr/>
+
 Q10. Difference between NIC and NSG?
+
+<hr/>
 
 Q11. Name any 5 functionalities which could be offloaded to a gateway in Azure!
 
@@ -44,17 +62,31 @@ few more:
 7. Servicing static content
 8. Gzip compression
 
+<hr/>
+
 Q12. How to set NSG rules through Terraform?
+
+<hr/>
 
 Q13. What is Azure Web Application Firewall and how does it used with Applicaiton Gateway, Front Door and CDN?
 
+<hr/>
+
 Q14. What is a WAF policy and to whom it can be associated?
+
+<hr/>
 
 Q15. What is a Mutex Lock and how does it work?
 
+<hr/>
+
 Q16. How Api gateway vs Front Door
 
+<hr/>
+
 Q17. How do you decide to go with SQL Server vs CosmosDB
+
+<hr/>
 
 Q18. What is CAP theorem?
 
