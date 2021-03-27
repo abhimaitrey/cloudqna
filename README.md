@@ -140,3 +140,10 @@ Source: https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overv
 
 </hr>
 
+Q22. Can the region be changed of an existing Azure Web App?
+
+Ans.
+App Service resources are region-specific and can't be moved across regions. You must create a copy of your existing App Service resources in the target region, then move your content over to the new app. 
+
+<hr/>
+
