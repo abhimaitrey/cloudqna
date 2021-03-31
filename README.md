@@ -138,7 +138,7 @@ Ans.
 <li>If you need to optimize global routing of your web traffic and optimize top-tier end-user performance and reliability through quick global failover, see Front Door.</li>
 Source: https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview 
 
-</hr>
+<hr/>
 
 Q22. Can the region be changed of an existing Azure Web App?
 
@@ -147,3 +147,4 @@ App Service resources are region-specific and can't be moved across regions. You
 
 <hr/>
 
+Q23. How can we use custom SSL certificates in Azure Function/App service?
