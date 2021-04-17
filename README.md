@@ -148,3 +148,15 @@ App Service resources are region-specific and can't be moved across regions. You
 <hr/>
 
 Q23. How can we use custom SSL certificates in Azure Function/App service?
+
+
+<hr/>
+Q24. What is the strategy would you use to save the cost for using virtual machines?
+
+Ans.
+Using Azure virtual machine reservations for long term. You can save upto 72% cost if you choose 3 years reservation.
+
+For more information : [link](https://docs.microsoft.com/en-in/azure/cost-management-billing/manage/understand-vm-reservation-charges?toc=/azure/cost-management-billing/reservations/toc.json)
+
+<hr/>
+
