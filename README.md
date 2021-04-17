@@ -169,6 +169,6 @@ Follow the steps:
 1. open the git bash
 2. Configure the git to use exclude file ~/.gitignore_global 
 
-<code>$ git config --global core.excludesfile ~/.gitignore_global
+<code>$ git config --global core.excludesfile ~/.gitignore_global </code>
 
 <hr/>
