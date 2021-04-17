@@ -160,3 +160,15 @@ For more information : [link](https://docs.microsoft.com/en-in/azure/cost-manage
 
 <hr/>
 
+Q25. Can I create a single .gitignore file for all the repositories on my computer?
+
+Ans.
+Yes, it is possible to add a global <code>.gitignore</code> file to define a list of rules for ignoring files in each Git repository on my computer.
+
+Follow the steps: 
+1. open the git bash
+2. Configure the git to use exclude file ~/.gitignore_global 
+
+<code>$ git config --global core.excludesfile ~/.gitignore_global
+
+<hr/>
