@@ -160,4 +160,3 @@ For more information : [link](https://docs.microsoft.com/en-in/azure/cost-manage
 
 <hr/>
 
-:tada: :firework: :smile:
