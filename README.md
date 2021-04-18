@@ -1,6 +1,8 @@
 ﻿# Azure question bank
+
+## Azure Infrastructure (IaaS) Questions
  
-### Q1. Difference between private endpoint and service endpoint!
+### * Difference between private endpoint and service endpoint!
 
 Ans. The following definition of Azure Private Endpoint has been taken from Microsoft Azure documentation:
 
@@ -11,7 +13,7 @@ Private endpoint enables connectivity between the consumers from the same VNet, 
 *The private endpoint must be deployed in the same region as the virtual network*.
 <hr/>
 
-### Q2. What is a proximity group and in what scenario it is used?
+### * What is a proximity group and in what scenario it is used?
 
 <hr/>
 
@@ -174,7 +176,7 @@ Follow the steps:
 
 <hr/>
 
-### Explain monitoring and analytics types and mention the services under each category!
+### Q26. Explain monitoring and analytics types and mention the services under each category!
 
 Ans.
 Azure monitoring and analytics services can be classified into following 3 categories:
