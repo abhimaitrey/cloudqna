@@ -1,10 +1,10 @@
-### Docker Questions
+# Docker Questions
 
-# What is the main difference between a VM and Docker?
+### What is the main difference between a VM and Docker?
 
 Ans. 
 
-# What is a docker daemon and how to start it manually?
+### What is a docker daemon and how to start it manually?
 
 Ans. 
 
