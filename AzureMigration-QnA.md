@@ -1,6 +1,6 @@
 # Cloud (Azure) Migration 
 
-## * What are the 5 R strategy of cloud migration?
+### * What are the 5 R strategy of cloud migration?
 
 Ans.
 1. Rehost
@@ -9,3 +9,4 @@ Ans.
 4. Rebuild
 5. Replace
 
+### * 
