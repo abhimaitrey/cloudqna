@@ -1,4 +1,8 @@
 # Azure Architecture Questions
+- [Azure Architecture Questions](#azure-architecture-questions)
+    - [Define cloud native!](#define-cloud-native)
+    - [Explain cloud native foundational pillars!](#explain-cloud-native-foundational-pillars)
+
 
 ### Define cloud native!
 
