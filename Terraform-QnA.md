@@ -5,3 +5,10 @@
 
 Ans.
 
+### Where does .tfstate file created? and who creates it?
+
+Ans.
+
+### How do you manage Terraform using Azure DevOps?
+
+Ans. 
