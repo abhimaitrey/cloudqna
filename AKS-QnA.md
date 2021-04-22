@@ -14,3 +14,10 @@ Ans.
 4. Managed Identity
 5. Load Balancer etc.
 
+### How do you monitor the logs in Kubernetes?
+
+Ans.
+
+### How to ensure security in Azure Kubernetes Cluster?
+
+Ans. 
