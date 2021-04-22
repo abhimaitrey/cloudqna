@@ -30,3 +30,12 @@ Ans.
 
 Ans.
 
+### How does Managed Identity work for AKS?
+
+Ans.
+
+### Explain Kubernetes roles?
+
+Ans.
+
+
