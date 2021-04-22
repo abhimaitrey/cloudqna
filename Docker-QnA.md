@@ -19,3 +19,6 @@ If you wish to configure the Docker daemon, then there are 2 options:
 1. Use a JSON configuration file
 2. Use flags when starting <code>dockerd</code>
 
+### How do layers work in docker?
+
+### 
