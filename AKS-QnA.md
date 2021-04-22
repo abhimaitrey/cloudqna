@@ -21,3 +21,12 @@ Ans.
 ### How to ensure security in Azure Kubernetes Cluster?
 
 Ans. 
+
+### Is the AKS security managed by Azure AD or Kubernetes?
+
+Ans.
+
+### How do nodes ensure the transaction is complete otherwise roleback?
+
+Ans.
+
