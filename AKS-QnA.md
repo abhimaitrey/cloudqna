@@ -37,5 +37,16 @@ Ans.
 ### Explain Kubernetes roles?
 
 Ans.
+The administrator has to define user permissions as **Role** before assigning permission to the users.  which can be set by Kubernetes RBAC and Azure RBAC. **ClusterRole** grants permission across the entire cluster or all the resources of a cluster even outside a given namespace.
+
+### What types of services are there in Kubernetes/ AKS?
+
+Ans.
+Followings are the services in Kubernetes:
+1. ClusterIP -  
+2. Nodeport -
+3. LoadBalancer -
+4. Ingress -
+5. ExternalName -
 
 
