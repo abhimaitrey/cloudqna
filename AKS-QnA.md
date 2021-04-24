@@ -43,10 +43,10 @@ The administrator has to define user permissions as **Role** before assigning pe
 
 Ans.
 Followings are the services in Kubernetes:
-1. ClusterIP -  
+1. ClusterIP -  internal applications communication
 2. Nodeport -
-3. LoadBalancer -
-4. Ingress -
-5. ExternalName -
+3. LoadBalancer - routing the request
+4. Ingress - another kind of load balancer for more complex scenario
+5. ExternalName - handles request from outside the cluster sources.
 
 
