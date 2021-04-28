@@ -19,3 +19,13 @@ Ans.
 ### Explain procedure to migrate VMWare and HyperV VMs to Azure?
 
 Ans. 
+
+### What tools do you use for migration to Azure?\
+
+Ans.
+
+### What is Bastion Host and how does it work?
+
+Ans.
+
+
