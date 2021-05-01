@@ -37,4 +37,11 @@ Ans.
 
 Ans.
 
+### How do you decide server sizing while doing assessment?
+
+Ans.
+
+### What is Application Security Group and in which scenario it is used?
+
+Ans.
 
