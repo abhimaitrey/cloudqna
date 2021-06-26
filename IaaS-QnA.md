@@ -56,7 +56,15 @@ Ans. Yes, it is possible through ExpressRoute metrics withing the Express Route 
 3. Performance
 4. Physical Connectivity
 
+### How to connect 2 VNets having the same CIDR address range?
 
+Ans.
+
+### What is private end point and where does it use?
+
+Ans. 
+
+https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-overview
 
 
 
