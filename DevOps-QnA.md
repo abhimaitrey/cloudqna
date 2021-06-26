@@ -8,3 +8,8 @@ Ans.
 
 Ans.
 
+### Where to use PAT (Personal Access token) in Azure DevOps?
+
+Ans.
+
+
