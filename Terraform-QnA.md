@@ -28,9 +28,10 @@ If your intent is to force replacement of a particular object even though there 
 **Example:**
 ```terraform apply -replace="aws_instance.example[0]"```
 
-source: https://www.terraform.io/docs/cli/commands/taint.html
+source: 
+https://www.terraform.io/docs/cli/commands/taint.html
 
-        https://www.terraform.io/docs/cli/state/taint.html
+https://www.terraform.io/docs/cli/state/taint.html
 
 ### How to test the terraform scripts?
 
