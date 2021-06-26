@@ -58,6 +58,8 @@ Ans. Yes, it is possible through ExpressRoute metrics withing the Express Route 
 
 ### How to connect 2 VNets having the same CIDR address range?
 
+### Can two Vnets have same CIDR range? If yes, how the both VNets connect?
+
 Ans.
 
 ### What is private end point and where does it use?
