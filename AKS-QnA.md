@@ -49,4 +49,18 @@ Followings are the services in Kubernetes:
 4. Ingress - another kind of load balancer for more complex scenario
 5. ExternalName - handles request from outside the cluster sources.
 
+### Command to know which cluster is working?
+
+### How to authenticate AKS in Azure DevOps pipeline?
+
+### How to migrate Jenkins jobs to Azure DevOps?
+
+Ans. https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-jenkins?view=azure-devops
+
+### What are Replica Set, Daemon Set?
+
+
+
+
+
 

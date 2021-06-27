@@ -37,4 +37,36 @@ Ans.
 
 Ans.
 
+### How do you decide server sizing while doing assessment?
+
+Ans.
+
+### What is Application Security Group and in which scenario it is used?
+
+Ans.
+
+### If there are Windows AD and Azure AD exist, which AD will you use for authentication?
+
+
+### Can we record the ExpressRoute activities in Azure Monitor?
+
+Ans. Yes, it is possible through ExpressRoute metrics withing the Express Route Circuit resource. There are 4 types of available matrics in ExpressRoute resource: 
+1. Availability
+2. Traffic
+3. Performance
+4. Physical Connectivity
+
+### How to connect 2 VNets having the same CIDR address range?
+
+### Can two Vnets have same CIDR range? If yes, how the both VNets connect?
+
+Ans.
+
+### What is private end point and where does it use?
+
+Ans. 
+
+https://docs.microsoft.com/en-us/azure/private-link/private-endpoint-overview
+
+
 
