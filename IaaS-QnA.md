@@ -58,6 +58,29 @@ Ans. Yes, it is possible through ExpressRoute metrics withing the Express Route 
 
 ### How to connect 2 VNets having the same CIDR address range?
 
+Ans. There are 2 similar concepts, and I will address each one individually:
+
+1) You can have VNETs with overlapping address space. You can make as many overlapping VNETS as you would like, and they can be in the same subscription and the same region. 
+
+It is usually recommended not to because if you need the 2 VNETs to communicate via VNET Peering or S2S VPN, they cannot have overlapping address space. If the 2 VNETs will never need to interact in that way, they can have overlapping address space without an issue. 
+
+2) Subnets cannot have overlapping address space within the VNET. In the example you gave above, both Subnets in both VNETs have the same address range - 10.0.1.0/24. 
+
+A better way to design the address range in a VNET:
+
+Vnet_A: 10.0.0.0/16   (10.0.0.0 - 10.0.255.255)
+Subnet_a_1: 10.0.0.0/24  (10.0.0.0 - 10.0.0.255)
+
+Subnet_a_2: 10.0.1.0/24  (10.0.1.0 - 10.0.1.255)
+
+If VNET B needs to communicate with A at some point, we need to not have overlapping addresses. 
+
+Vnet_B: 10.1.0.0/16  (10.1.0.0 - 10.1.255.255)
+
+Subnet_b_1: 10.1.0.0/24  (10.1.0.0 - 10.1.0.255)
+
+Subnet_b_2: 10.1.1.0/24  (10.1.1.0 - 10.1.1.255)
+
 ### Can two Vnets have same CIDR range? If yes, how the both VNets connect?
 
 Ans.
