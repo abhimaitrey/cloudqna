@@ -37,4 +37,12 @@ https://www.terraform.io/docs/cli/state/taint.html
 
 Ans. Use the ```terraform validate``` command but use the ```terraform plan``` command instead, which includes an implied validation check.
 
+### What is the usage of "null resource" in Terraform?
+
+Ans.
+
+### How do you create 100 identical VMs using Terraform?
+
+Ans. 
+
 
