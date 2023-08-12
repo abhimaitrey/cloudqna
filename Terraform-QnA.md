@@ -1,6 +1,16 @@
 # Terraform Questions
 
+### What does <code>terraform init</code> command do?
+Ans. Initialize the backend.
+
+Initialize the provider as per given in .tf configuration file.
+
+Creates a .terraform.lock.hcl file file.
+ 
+
 ### What is the purpose of state file in Terraform?
+Ans. 
+
 ### How does the states maintained in Terraform?
 
 Ans.
