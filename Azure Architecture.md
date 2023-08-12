@@ -3,6 +3,8 @@
     - [1.0.1. Define cloud native!](#101-define-cloud-native)
     - [1.0.2. Explain cloud native foundational pillars!](#102-explain-cloud-native-foundational-pillars)
     - [1.0.3. What architecture would you recommend for a 3-tier or N-tier application?](#103-what-architecture-would-you-recommend-for-a-3-tier-or-n-tier-application)
+    - [How two services will communicate each other residing in two different subscriptions?](#how-two-services-will-communicate-each-other-residing-in-two-different-subscriptions)
+    - [What is Federated credeentials in Azure App Registration\>\> Certificates \& Secrets?](#what-is-federated-credeentials-in-azure-app-registration-certificates--secrets)
 
 
 ### 1.0.1. Define cloud native!
@@ -47,3 +49,17 @@ Ans. There is an architecture well defined in the Azure Docs. The architecture h
 
 
 https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/n-tier-sql-server
+
+### How two services will communicate each other residing in two different subscriptions?
+
+Ans.
+
+### What is Federated credeentials in Azure App Registration>> Certificates & Secrets?
+
+Ans. Using workload identity federation allows you to access Azure Active Directory protected resources without needing to manage secrets for supported scenarios. The supported scenarios examples:
+
+GitHub Actions
+Workloads running in Kubernetes
+Workloads running in compute platforms outside of Azure
+
+
