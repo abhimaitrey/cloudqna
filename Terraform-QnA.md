@@ -57,3 +57,9 @@ Ans.
 Ans. 
 
 
+### What is Terraform workspace and its usage?
+
+Ans.
+
+
+
