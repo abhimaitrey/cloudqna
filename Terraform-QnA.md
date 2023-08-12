@@ -6,10 +6,11 @@ Ans. Initialize the backend.
 Initialize the provider as per given in .tf configuration file.
 
 Creates a .terraform.lock.hcl file file.
- 
+
 
 ### What is the purpose of state file in Terraform?
-Ans. 
+Ans. The state file records information about what has been deployed and to keep track of the state of those resources.
+Terraform state is also used to enforce idempotency. Idempotency is the ability to apply a configuration multiple times and achieve the same result every time.
 
 ### How does the states maintained in Terraform?
 
