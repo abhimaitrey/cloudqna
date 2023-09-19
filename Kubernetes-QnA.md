@@ -35,5 +35,12 @@ Ans. 1. ImagePullBackOff or ErrImagePull --- It could be because of following re
 *Use of hostPort
 
 3. OOM Kill - container limit reached
-4. 
+   
+
+
+### How to resolve **HTTP Status Code 500** error in Kubernetes?
+
+Ans.
+
+
 
