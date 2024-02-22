@@ -1,0 +1,10 @@
+1)If the web service and the app-service are in different namespaces, we cannot communicate as Kubernetes doesn’t communicate across namespaces.
+If we have a cluster DNS service like CoreDNS running, we can use fully qualified DNS names (FQDN). 
+Web-app-service.test-namespace.svc.cluster.local 
+
+2)how to set context of clusters
+az aks list -o table > az aks get-credentials > kubectl config get-contexts > kubectl config use-context <yourClusterName>
+
+3)Jenkins master slave, jenkins shared library
+
+4)Docker file 
