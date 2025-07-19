@@ -1,3 +1,5 @@
+TSYS
+
 1)If the web service and the app-service are in different namespaces, we cannot communicate as Kubernetes doesn’t communicate across namespaces.
 If we have a cluster DNS service like CoreDNS running, we can use fully qualified DNS names (FQDN). 
 Web-app-service.test-namespace.svc.cluster.local 
